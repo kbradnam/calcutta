@@ -35,6 +35,8 @@ body { font-size: 16px; line-height: 1.5; }
 .top { grid-area: top; padding: 14px 20px 10px; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 2px 18px; align-items: baseline; }
 .top h1 { margin: 0; font: 700 28px/1.1 var(--display); letter-spacing: .04em; text-transform: uppercase; text-wrap: balance; }
 .top p { margin: 0; color: var(--mute); font-size: 15px; }
+.top p.src { flex-basis: 100%; font-size: 13px; line-height: 1.4; max-width: 90ch; }
+.top p.src a { color: var(--coast); }
 .stage { grid-area: stage; position: relative; min-height: 280px; background: var(--sea); overflow: hidden; }
 .stage canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
 .card {
@@ -106,6 +108,7 @@ body { font-size: 16px; line-height: 1.5; }
   <header class="top">
     <h1>HMS Calcutta, 1919–1923</h1>
     <p>Alfred Frederick Powell, Royal Navy, service number J92362</p>
+    <p class="src">Sources: the ship's log, transcribed by the Old Weather project (<a href="https://www.naval-history.net/OWShips-WW1-06-HMS_Calcutta.htm">naval-history.net</a>), and his service register, ADM 188/831/92362, at The National Archives. The log names no crew, so these are events his ship took part in, not proof that he was there. Photographs are credited in their captions.</p>
   </header>
 
   <section class="stage" id="stage">
