@@ -18,6 +18,7 @@
     ["1920-10-02","Prince addresses the ship","The Prince speaks to the ship's company at Bermuda."],
     ["1921-02-11","Able Seaman","Promoted to Able Seaman."],
     ["1921-05-02","Wireless room fire","A fire breaks out in the wireless room."],
+    ["1921-05-20","Philadelphia Navy Yard","Calcutta is at the Philadelphia Navy Yard from 20 to 23 May, on her way home.","philadelphia.jpg","HMS Calcutta at the Philadelphia Navy Yard, 20 May 1921, with her crew lined up on deck. The photograph is inscribed \"Navy Yard, Phila.\" Rickard, J (20 April 2019), HMS Calcutta at Philadelphia, 1921, historyofwar.org. Used with permission."],
     ["1921-06-03","Home to Portsmouth","The ship returns home and recommissions on 14 June."],
     ["1922-01-25","Panama Canal","Passes through the canal into the Pacific.","culebra.jpg","The Great Culebra Cut with Gold Hill, showing landslide in the foreground, Panama Canal. O. E. Jorstad and I. L. Maduro Jr., ca. 1913, about nine years before this transit. Library of Congress. No known restrictions on publication."],
     ["1922-02-21","Honolulu","Calls at Hawaii.",["honolulu.jpg","waikiki.jpg"],["US Post Office, Custom House and Court House, Honolulu, 1922. Hawaii Shinpo Sha. Public domain in the US (Wikimedia Commons).","Two natives with outrigger canoes at the shoreline, Honolulu, Hawaii, c. 1922, with Diamond Head behind. Library of Congress, U.S. Geography File (LC-USZ62-105953). No known restrictions on publication."]],
